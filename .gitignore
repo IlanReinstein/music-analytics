@@ -1,0 +1,8 @@
+Resonance*/
+data/
+.ipynb_checkpoints/
+.cache
+.DS_Store
+env
+spotify-resources.rtf
+
