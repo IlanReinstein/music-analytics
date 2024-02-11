@@ -8,4 +8,4 @@ We are using Songstats as the source API which comprises statistics on multiple 
 
 # ETL
 
-![image info](./)
+![image info](./resonance-diagram.png)
